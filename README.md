@@ -7,10 +7,12 @@ Telling time, using Raphael.js - a quick template
 * Made at hacknight
 * A template using [Raphael.js](http://raphaeljs.com/)
 
-Goal: to show present VS 
+Goal: to show present VS future time visually
 
 
 [http://www.thepresent.is/#thepresent-365-day-clock](http://www.thepresent.is/#thepresent-365-day-clock)
+
+What are the different ways to show time visually
 
 * Brief intro
 * long time
