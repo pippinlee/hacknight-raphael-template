@@ -1,0 +1,56 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+}
+
+h3 {
+	font-weight: 100;
+	color: #999;
+	font-size: 42px;
+	font-family: 'Merriweather', serif;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	display: -webkit-inline-box;
+}
+
+div#canvas {
+    height: 500px;
+    margin: 0 auto;
+    text-align: left;
+    width: 900px;
+    border: 1px solid #999;
+}
+
+div#clock {
+	display: -webkit-inline-box;
+	font-size: 42px;
+	font-family: sans-serif;
+	color: #999;
+	font-weight: 900;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	color: rgb(223, 70, 70);
+}
+
+header {
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#canvasTwo {
+    height: 500px;
+    margin: 0 auto;
+    text-align: left;
+    width: 500px;
+    border: 1px solid #999;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+section {
+	width: 100%;
+	border-top: 10px solid #999;
+}
